@@ -2,6 +2,11 @@
 
 [中文](#中文说明) | [English](#english)
 
+
+## Demo / 演示
+
+![Robot arm trajectory test demo](media/demo.gif)
+
 ## 中文说明
 
 ### 项目简介

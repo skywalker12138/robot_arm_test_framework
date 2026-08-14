@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Generated test artifacts
+test_results/
+run_*/
+*.before_*
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
